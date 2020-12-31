@@ -1,0 +1,20 @@
+# Hard Work and Effective Effort Are Different
+
+(Space: How is this different from futile grit vs )
+
+if you take a peasant from 300 years ago (say, one of my ancestors) set them to work 12 hours a day and they're willing, could they make the next google?
+probably not
+working hard isn't always optimal strategy to find solution
+if solution is small circle:
+finding it won't always work if you try naive strategy of brute force. if you spent time becoming smarter and more effective and powerful probably can solve unlike just trying hard
+
+separate me and bil gates can regain money fast if broke
+
+algorithm
+
+[[Trying Hard]]
+
+a challenge which goes beyond trying hard and goes farther
+how do you other optimize at scale
+
+see. Actulaly Trying post LessWrong

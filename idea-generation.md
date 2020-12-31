@@ -1,0 +1,15 @@
+# Idea Generation
+
+for it you must:
+[[Take Ideas Seriously]] and view thinking as a [[non-problem]]
+you must love thinking and then it'll just be easy and natural and they'll come to you
+most people odn't take ideas seriously and think they're worth it 
+they also think thinking is a pain
+
+
+always write down new ideas
+
+### Raj Notes on Idea GeneraTION
+cfaew working
+many new thoughts while studyinng 
+

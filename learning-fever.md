@@ -1,0 +1,13 @@
+# Learning Fever
+
+woz says to cover up negative emotions hindering big picture and other stuff with more learning
+
+this might seem strange but for users of [[SuperMemo]] when you get far enough into queue and are just In It you'll feel it
+outer world fades to black and it's only you and the learning
+fun fun fun fun fun fun fun fun fun fun fun fun fun fun fun fun fun fun fun fun fun fun fun fun fun
+
+(Related:  [Learning and Depression](https://supermemo.guru/wiki/Learning_and_depression))
+
+<!---
+comments!
+-->

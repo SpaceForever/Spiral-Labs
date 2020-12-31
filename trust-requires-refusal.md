@@ -1,0 +1,6 @@
+# Trust Requires Refusal
+
+I am able to talk and come to many cool ideas with [[Space]] and suggest things because I know he will refuse
+if he's not willing then i can't suggest things as far out as I want to!
+
+(or as [[Phoenix]] put it while doing [[Hammertime]], Boundaries are fuckin g important!)
