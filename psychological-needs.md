@@ -5,10 +5,11 @@
 raj: i'm not sure what these are
 
 
-Space:
+
 
 ## Possible: 
 - Autonomy
 - Conncetion
 - Interelation
+- Competence (ie. productivity)
 

@@ -9,8 +9,7 @@
 
 ## Goals
 - 
-
-## Strengths
+ ## Strengths
 - [[Optimism]]
 - [[Extroversion]]
 
