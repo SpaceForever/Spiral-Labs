@@ -19,7 +19,29 @@ Learning is fun not just for its own sake, but for how many problems it unlocks 
 > The whole point of discoveries is that they make an entire subset of future problems *easier*.
 
 ## An Example
-- Say, for example, you are plagued with the issue of [[akrasia]]
+- Say, for example, you are plagued with the issue of [[akrasia]]. The solution, in anything else, lies in knowledge.
+
+## Pitfalls in Problem Solving
+There are two major pitfalls in problem solving:
+
+- Lack of knowledge
+- Lack of Knowledge Availability
+
+All problems fall into these categories. Either you don't know what to do, or you do but the knowledge isn't availalble. When you know what to do AND the knowledge is readily available, you can solve a problem.
+
+### An Example
+Lets take for example what most of us see as a trivially easy problem. Crossing the road. You need two things to safely cross the road:
+
+- The **knowledge** to look both left and right
+- To **remember** that knowledge when you are about to cross
+
+Lack any of these two things, and you are likely to die.
+
+
+
+
+
+
 
 
 
