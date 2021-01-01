@@ -1,3 +1,3 @@
 # Threadseeking
 
-When you follow through and find global optima
+When you follow through on [[Threads]] and find global optima?
