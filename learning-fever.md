@@ -1,5 +1,7 @@
 # Learning Fever
 
+(Why called 'Learning Fever'? Doesn't seem like very descriptive name)
+
 [[Woz]] says to cover up negative emotions hindering big picture and other stuff with more learning
 
 this might seem strange but for users of [[SuperMemo]] when you get far enough into queue and are just In It you'll feel it
