@@ -1,6 +1,6 @@
 # SuperMemo
 
-Program for massive, fun learning using [[Incremental Reading]], created by [[Woz]]
+Program for massive, fun learning and acquisition of [[knowledge]] using [[Incremental Reading]], created by [[Woz]]
 
 
 
