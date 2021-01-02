@@ -9,7 +9,7 @@ Somewhat the opposite of [[extroversion]]
 
 
 ## Things I don't like interctions
-- Smiling
+- Smiling   
 	## Problems
 		- feels fake
 		- cheeks hurt
