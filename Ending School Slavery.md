@@ -2,6 +2,10 @@
 # Ending School Slavery
 
 `#endschoolslavery
+## Goal
+- Actually *actually* change it.
+
+
 
 ## Next Step
 - Create Long Term Roadmap
@@ -28,7 +32,10 @@ Website
 - make concise, nice part of supermemo.guru
 
 
- 
+ ## Prompts 
+— If you could say something to every kid, what would you say?
+- How to talk to all of them?
+- How to talk to all of them?
 
 
 
