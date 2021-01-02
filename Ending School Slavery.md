@@ -21,8 +21,6 @@ Spreading rationality...
 
 ## Ideas
 1. who is the audience?
-2. can hear perfectly
-3. can u see this????? hello????? alexa play despectoaio
 
 oh shit i can do 15 year old Ted Talk
 
@@ -30,9 +28,13 @@ get insight from teens
 
 market research about teens
 
+
+## Current Goal
+Eradicating Mental Blocks to freedom
 ## Next Steps
 1. Find out what's viral among teens
-2. 
+2. Figure out what 's actually viral among parents
+3. 
 
 
 
@@ -97,8 +99,6 @@ Coordinating what the change will be - [[]]
 
 
 ## Factors to Improve
-
-
 [[Teaching]]
 [[Homework]]
 [[Sleep in Schools]]
@@ -106,9 +106,6 @@ Coordinating what the change will be - [[]]
 
 
 ## Stages across the timeline
-
-
-
 
 [[University]]
 [[Hiring]]
