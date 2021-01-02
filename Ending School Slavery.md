@@ -9,6 +9,7 @@
 
 ## Next Step
 - Create Long Term Roadmap
+	- [[Space's ESS Brainstorm]]
 
 
 Primary points of attack:
