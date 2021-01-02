@@ -17,6 +17,26 @@ Every child has choice adnd chooses what they do
 Focus on mental blocks!
 
 Spreading rationality...
+> 'if you were in slavery times you would've spoken up right? Well here's your opportunity
+
+## Ideas
+1. who is the audience?
+2. can hear perfectly
+3. can u see this????? hello????? alexa play despectoaio
+
+oh shit i can do 15 year old Ted Talk
+
+get insight from teens
+
+market research about teens
+
+## Next Steps
+1. Find out what's viral among teens
+2. 
+
+
+
+
 
 
 
