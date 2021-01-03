@@ -22,7 +22,6 @@ Creator of [[Spiral Labs]]
 - Creating Content / [[Memetics]]
 
 
-
 ## Strengths:
 
 - [[Idea generation]]
@@ -37,6 +36,10 @@ Creator of [[Spiral Labs]]
 
 
 [[contact Raj]]
+
+## Creations
+- [[Thought Maps]]
+- [[Spiral]]
 
 ## Inspiration
 [[Woz]]
@@ -69,6 +72,7 @@ stuff want to write
 [Future Consistency Ability]: Future Consistency Ability "Future Consistency Ability"
 [addiction]: addiction "Addiction"
 [contact Raj]: contact-raj "Contact Raj"
+[Thought Maps]: Thought Maps "Thought Maps"
 [Woz]: Woz "Woz"
 [Gautam]: gautam "Gautam"
 [Space]: Space "Space"

@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "60d8bc45ccadd56a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f70ece0560808396",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "gapped-wording.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2447109bd9f5b8c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "100e9050b48368e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c46e3a710c1ee273",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a35a61a01a778197",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0b9e105b4ef9694",
+    "type": "split",
+    "children": [
+      {
+        "id": "554a3c5a0b8fa331",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a58a048ecf263e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "gapped-wording.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "gapped-wording.md",
+    "fear-of-being-wrong.md",
+    "Fear of Being Wrong.md",
+    "freedom-of-reality.md",
+    "problem solving.md",
+    "knowledge.md",
+    "SuperMemo.md",
+    "Incremental Reading.md",
+    "formulation.md",
+    "Memetics.md"
+  ]
+}

@@ -2,15 +2,18 @@
 
 tradeoff between short-term performance and long-term risk
 
-i read it from luca book
+I read it from Luca book
 good book
 
 core example: imagine you are skiier and 10 races
 10% chance break knees 10% chance to win
-no one would take those odds because very good chance youd never play again!
+no one would take those odds because very good chance you'd never play again!
 terrible!
 
 but in day to day life people make that mistake over and over
+
+Explain expected value and show that the options slowly get destroyed bit by bit by bit
+
 
 [[planning fallacy]] is important for preventing too much risk in ergodocity
 

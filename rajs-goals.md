@@ -1,4 +1,4 @@
 # Raj's Goals
 
-short lmid long
+short lmid long (s: ?)
 think much harder

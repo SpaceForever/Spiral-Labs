@@ -1,7 +1,13 @@
 # Freedom of Reality
 
-elephant child tied with stake when big strong dfoesnot try release
-we have much power over reality and many walls are artificial and groupthink and internal how to become beyond such things?
+
+
+When an elephant is tied to a stake as a weak child, it does not try to gain freedom once it becomes a big strong adult.
+
+> By worhiping boredom as children, adults don't seem to resist boring lives ~ Woz
+
+we have much powelephant child tied with stake when big strong dfoesnot try release
+er over reality and many walls are artificial and [[groupthink]] and internal how to become beyond such things?
 remember oil example: people only gradually get closer to truth in reporting f or ferar of looking wrong
 
 [[Fear of Being Wrong]]
