@@ -3,23 +3,28 @@
 
 Once you learn a bit of evolutionary psycology, you are enlightned to an incredibly useful framing device. Which is that there is no singular 'you'. In fact, there are two *parts* of you taking residence inside your brain, each with different goals and desires.
 
-Call them [System 1 and System 2](), or [the Elephant and the Rider](), or [the Thinking Brain and the Feeling Brain](), or the [Primative Mind and the Higher Mind](), or your [God and your monkey](), whichever suits your fancy. The large, large array of names for the excact same idea should show you how deeply rooted this concept is. I think Wait But Why's Primative Mind and Higher Mind catpure the idea best.
+Call them [System 1 and System 2](https://medium.com/leadership-motivation-and-impact/what-i-learned-from-thinking-fast-and-slow-a4a47cf8b5d5), or [the Elephant and the Rider](https://www.thinkhdi.com/library/supportworld/2016/direct-the-rider-motivate-the-elephant-shape-the-path.aspx#:~:text=NYU%20psychologist%20Jonathan%20Haidt%20uses,rider%2C%20the%20elephant%20usually%20wins.), or [the Thinking Brain and the Feeling Brain](https://markmanson.net/your-two-minds), or your [God and your monkey](http://mindingourway.com/not-yet-gods/), whichever suits your fancy. The large, large array of names for the excact same idea should show you how deeply rooted this concept is.
+
+ I think Wait But Why's [Primative Mind and Higher Mind](https://waitbutwhy.com/2019/08/fire-light.html) catpure the idea best. [The Great Battle of Fire and Light](https://waitbutwhy.com/2019/08/fire-light.html) is an *incredibly* interesting post I highly reccomend reading.
+
+ This image is very much from Wait But Why. Primative Mind on the left, High Mind right.
+ ![](2021-01-04-11-32-28.png)
 
 The internal conflicts everyone faces which we've comfortably come to refer to as "the human condition" are all conflicts between these two minds taking residence in your head: 
 
-- The Feeling Brain, which cares about emotions, survival and makes rash decisions; 
+- The Primative Mind, which cares about emotions, survival and makes rash decisions; 
 
-- and The Thinking Brain, which cares about long-term goals and good decision making.
+- and the Higher Mind, which cares about long-term goals and good decision making.
 
-Now, the fundamental difference I see between people who know this vital tidbit of evolutionary psycolgy and the people who don't is the way they regard their emotions. They don't recognise the split between emotions and rationality and will use the rationality to justify the emotions, no matter how ridiculous they are. 
+Now, the fundamental difference I see between people who know this vital tidbit of evolutionary psycolgy and the people who don't is the way they regard their emotions. People who don't recognise the split between emotions and rationiality and will use the rationality to justify the emotions, no matter how ridiculous they are. 
 
 Well I'd like to tell you something:
 
-**You don't have the cover up for the monkey!**
+**You don't have the cover up for the Primative Mind!**
 
 Your emotions aren't you!
 
-Your rational brain is a pasenger to the whims of the emotional brain, who is very much in control, and it will steer you wherever it pleases. You (talking to the rational brain) **don't have to make excuses for the emotional brain!** Not everything your feeling brain forces you to do is right, or justifiable. Not every social qualm you have is worth defending until you're 70, on your deathbed, finally realising you should have cared less. Not every inibition is worth respecting.
+Your Higher Mind is a pasenger on a journey with the Primative Mind, who is very much in control, and it will steer you wherever it pleases. You (talking to the rational brain) **don't have to make excuses for the emotional brain!** Not everything your feeling brain forces you to do is right, or justifiable. Not every social qualm you have is worth defending until you're 70, on your deathbed, finally realising you should have cared less. Not every inibition is worth respecting.
 
  These are ancient bugs in your brain, formed of a time where social acceptence was the difference between life and death. Thank your emotional brain for the signals it gives you but you *cannot* let yourself mindlessly give in to its qualms, because every mindless win you give to your emotional brain knocks you with a penalty, sending you down the conciousness ladder, shifting you down from being part of the species that escaped it's own planet and planted a flag in *space*, and more of the animal that kills six million of its own number because its tribalistic instincts told it they wer•"subhuman".
 
@@ -34,7 +39,7 @@ The best you can do as the rational brain is to be dillegent in pointing out eve
 So learn some Evolutionary Psycology. It's really fun, and really really good for you, becuase your feeling brain is always in charge. You're never gonna get anything done, **ever**, if you keep denying that fact and don't align your feeling brain's drives.
 
 
-
+https://www.youtube.com/watch?v=0jBK4qDJ-OM
 
 Related to: 
 [[Rationality]] 
