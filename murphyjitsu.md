@@ -4,7 +4,7 @@
 
 Notable [[instrumental-rationality]] techniqeu from [[Hammertime]].
 
-Art of repeatedly envisioning the future and defending against failure modes until you would be SHOCKED
+Art of repeatedly envisioning  and defending against failure modes until you would be SHOCKED
 
 https://owenshen24.github.io/rationality-bots/planbot.html
 

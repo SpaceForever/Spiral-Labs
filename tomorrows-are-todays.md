@@ -27,7 +27,8 @@ Life is just a series of problems. Don't believe me? Look back apon your day so 
 
 A lot of us put a lot of stock into tomorrow. But the future exists only in our collective imaginations. There is no such "thing" as the future, in the same way there is such a "thing" as the screen you're reading this on. Because when the "future" comes, it's the present. It's today. And the only person ever dealing with today's problems is today-you.
 
-## Metaphor
+--------------------------------------------------------------------------------
+
 
 It's like you're setting sail on an incredibly important project, where every success matters greatly. And instead of doing the work yourself, you're delegating about 90% of the work to your 90 year old neighbour, Jerry. Strangely you keep finding you end up doing a lot of the work you supposedly delegated, but you don't *really* notice it. 
 
@@ -38,7 +39,8 @@ You're startled for a second or two, and then say:
 "My god! I'm sorry! That must have been quite confusing for you! I know I can't afford to be delegating such important pieces of work to someone that doesn't exist. I'll fix up."
 
 
-## Summary
+--------------------------------------------------------------------------------
+
 
 Tomorrow-you is *literally* a figment of your imagination. They've never existed and they never will. You are you. The world is as your mind makes it and you have control over your mind. If you expect your mind to feel different because the world changes you are wrong, and it will hurt you if you stick with that belief. That's putting stock in future you to do something you've never been able to do — be content. And that's grossly wishful thinking.
 
@@ -48,17 +50,20 @@ But let me make it exceptionally clear: *tomorrow-you is today-you. Tomorrow-you
 
 If today you doesn't see every opportunity to peak at a tree or the glorious sky or a scuttling squirrel as a suprememe gift, what makes you think anything different would be if you were placed in a utopian society? 
 
-**Tomorrows are just todays**. If you want tomorrow-you's to be even *slightly* different, more powerful, less worried about what other people think, whatever it is, ***fix today-you***.
+**Tomorrows are just todays**. If you want tomorrow-you's to be even *slightly* different, more powerful, less worried about what other people think, whatever it is, ***FIX today-you.***.
 
 
+--------------------------------------------------------------------------------
 
 
 
 <br><br><br><br><br><br><br><br><br><br>
 
 
-Related posts:
-Mark Manson, winning at Life
-Replacing Guilt, rest in motion
-Timeless Decision Theory LessWrong
+This post is heavily inspired by the following, with thanks to [Incremental Reading](https://gingerjumble.wordpress.com/2020/08/28/the-main-reason-you-should-switch-from-anki-to-supermemo/) for letting them all swirl in my head at the same time:
 
+- [Life is a Picture, but You Live in  Picture - Wait But Why](https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html)
+- [Life is a Video Game, Here are the Cheat - Mark Manson](https://markmanson.net/life-cheat-codes)
+- [Rest in Motion - Replacing Guilt](http://mindingourway.com/rest-in-motion/)
+- [Timeless Decision Theory for Humans - Hammertime](https://www.lesswrong.com/posts/4Kye4kkKwn6DCahKy/tdt-for-humans)
+- [Meditations - Marcus Aurelius](https://dailystoic.com/meditations-marcus-aurelius/)
