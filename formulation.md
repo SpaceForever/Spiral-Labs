@@ -4,6 +4,8 @@ making cards when understyand knowledge vs when understand application
 
 trigger action framework of what cards are
 
+[[Prioritization in SuperMemo]]
+
 (related: [[SuperMemo]])
 
 https://supermemo.guru/wiki/20_rules_of_knowledge_formulation
