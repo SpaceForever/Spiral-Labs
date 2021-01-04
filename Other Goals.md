@@ -9,18 +9,17 @@
 > [[Ending School Slavery]] - freeing the children 
 
 > [[Spreading SuperMemo]] - encouraging rapid learning
-
  
-> [[Spreading Genius]] - becoming highly-effective geniuses ourselves and creating tools to help other people do the same, such as [[Habit Railing]]
+> [[Spreading Genius]] - becoming highly-effective geniuses ourselves and creating tools to help other people do the same, such as [[Spiral]] and [[Forge]]
 
 
-### Unrefined Checkmarks
+## Unrefined Checkmarks
 
-- Moving entirely to [[Incremental Email]]
+> Moving entirely to [[Incremental Email]]
 
 
 
-[[Hazy Ideas]] 
+## [[Hazy Ideas]] 
 
 ## Solved 
 ~~> [[Wiki]] - For organising goals~~ 
@@ -30,7 +29,8 @@
 [Future Consistency Ability]: Future Consistency Ability "Future Consistency Ability"
 [Ending School Slavery]: Ending School Slavery "Ending School Slavery"
 [Spreading SuperMemo]: Spreading SuperMemo "Spreading SuperMemo"
-[Habit Railing]: habit-railing "Habit Railing"
+[Spiral]: Spiral "Spiral"
+[Forge]: Forge "Forge"
 [Incremental Email]: Incremental Email "Incremental Email"
 [Hazy Ideas]: Hazy Ideas "Threads"
 [Wiki]: Wiki "Wiki"

@@ -1,9 +1,9 @@
 
 # Your Emotions Aren't You
 
-Once you learn a bit of evolutionary psycology, you are enlightned to an incredibly useful framing device. Which is that there is no one 'you'. In fact, there are two *parts* of you taking residence inside your brain, each with different goals and desires.
+Once you learn a bit of evolutionary psycology, you are enlightned to an incredibly useful framing device. Which is that there is no singular 'you'. In fact, there are two *parts* of you taking residence inside your brain, each with different goals and desires.
 
-Call them [System 1 and System 2](), or [the Elephant and the Rider](), or [the Thinking Brain and the Feeling Brain](), or the [Instant Gratification Monkey and the Higher Mind](), or your [God and your monkey](), whichever suits your fancy. The large, large array of names for the excact same idea should show you how deeply rooted this concept is.
+Call them [System 1 and System 2](), or [the Elephant and the Rider](), or [the Thinking Brain and the Feeling Brain](), or the [Primative Mind and the Higher Mind](), or your [God and your monkey](), whichever suits your fancy. The large, large array of names for the excact same idea should show you how deeply rooted this concept is. I think Wait But Why's Primative Mind and Higher Mind catpure the idea best.
 
 The internal conflicts everyone faces which we've comfortably come to refer to as "the human condition" are all conflicts between these two minds taking residence in your head: 
 
@@ -19,21 +19,27 @@ Well I'd like to tell you something:
 
 Your emotions aren't you!
 
-You're in this ride with a chaotic passenger who is very much in control, and will steer you wherever it pleases. You, the rational brain, **don't have to make excuses for it!** Not everything your feeling brain forces you to do is right, or justifiable. Not every social qualm you have is worth adopting until you're 70, not every inibition is worth respecting. These are ancient bugs in your brain
+Your rational brain is a pasenger to the whims of the emotional brain, who is very much in control, and it will steer you wherever it pleases. You (talking to the rational brain) **don't have to make excuses for the emotional brain!** Not everything your feeling brain forces you to do is right, or justifiable. Not every social qualm you have is worth defending until you're 70, on your deathbed, finally realising you should have cared less. Not every inibition is worth respecting.
+
+ These are ancient bugs in your brain, formed of a time where social acceptence was the difference between life and death. Thank your emotional brain for the signals it gives you but you *cannot* let yourself mindlessly give in to its qualms, because every mindless win you give to your emotional brain knocks you with a penalty, sending you down the conciousness ladder, shifting you down from being part of the species that escaped it's own planet and planted a flag in *space*, and more of the animal that kills six million of its own number because its tribalistic instincts told it they wer•"subhuman".
 
 
-# Coping
+## Coping
 
-At least for me, my gut reaction is "Ew! There's something inside me an it's hijacking my thoughts! Get it out! Get it our!" Unfortunately though, it doesn't work that way, and the thought that my feeling brain is more in control is one that still bugs me and that I must struggle to accept. But you must, because you're feeling brain is the driver.
+At least for me, my gut reaction is "Ew! There's something inside me an it's hijacking my thoughts! Get it out! Get it out!" Unfortunately though, it doesn't work that way, and the thought that my feeling brain is more in control is one that still bugs me and that I must struggle to accept. But I must, because my feeling brain is the driver. 
 
-The best you can do as the rational brain is to be dillegent in pointing out everything the feeling brain forces you to do that you think is ridiculous, and align you're feeling brain to be *revolted* at the idea of an irrational feeling brain being in charge, like mine is :) Quite counterintuitive, I know, but my feeling brain is possitively *invigortated* at the idea of squashing the social qualms
+The best you can do as the rational brain is to be dillegent in pointing out everything the feeling brain forces you to do that you think is ridiculous, and align your feeling brain to be *revolted* at the idea of an irrational feeling brain being in charge, like mine is :) Quite counterintuitive, I know, but my feeling brain is possitively *invigortated* at the idea of squashing the social qualms, and as such it helps me do it. For me I see fighting against my social anxiety as a great challenge, and am eager to welcome Me 4.0 once I do.
 
 
-So learn some evopsych. It's really fun, and really good for you, becuase your feeling brain is always in charge. You're never gonna get anything done, **ever**, if you keep denying that fact and don't align your feeling brain's drives.
+So learn some Evolutionary Psycology. It's really fun, and really really good for you, becuase your feeling brain is always in charge. You're never gonna get anything done, **ever**, if you keep denying that fact and don't align your feeling brain's drives.
 
 
 
 
 Related to: 
 [[Rationality]] 
-[[Psycology]] 
+[[Psychology]] 
+
+[//begin]: # "Autogenerated link references for markdown compatibility"
+[Rationality]: rationality "Rationality"
+[//end]: # "Autogenerated link references"
