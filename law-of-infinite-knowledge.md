@@ -1,6 +1,7 @@
 # Law of Infinite Knowledge
 
 (working title, please suggest alternatives)
+
 What separates being able to look at 100 articles vs. a thousand?
 How much better is access to 100 vs 1000 assuming you have only enough time to read say 100 pages worth?
 
