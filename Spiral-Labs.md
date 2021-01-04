@@ -6,7 +6,8 @@
 ### Current Focuses: 
 - Gaining [[Future Consistency Ability]]
 - [[Ending School Slavery]]
-### [[Other Goals]]
+  
+[[Other Goals]]
 
 
 ## Interests
