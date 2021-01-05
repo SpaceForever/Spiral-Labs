@@ -32,9 +32,11 @@ My teacher walked out of the room, and the demon sunk it's nails deeper, piercin
 
 I was terrified. I'd adjusted to the demon's presence, knowing it left whenever I completed an exam. But the exam was two years away! 
 
-I began to shake ferociously to try and get the demon off, a foolish, foolish move. I knew any attempts to reliquinquish myself from the demon's grasp would only lead to more pain, and this time wasn't an exepction. It pierced it's claws into my skin. I cried out in the classroom. 
+I began to shake ferociously to try and get the demon off, a foolish, foolish move. I knew any attempts to reliquinquish myself from the demon's grasp would only lead to more pain, and this time wasn't an exepction. It dug its claws in depeer in retaliation, piercing through my skin. I cried out into the classroom. 
 
 After a while, I apologised to the demon. 
+
+It stayed.
 
 —
 
@@ -62,9 +64,50 @@ I went to my mum and begged her to get the demon off me. She appeared to listen 
 
 She thought for a moment. "Ok, then what's the problem?"
 
-"It *hurts* mum! I don't like it! It won't let me sleep! I didn't even ever ask for it to be here! I didn't want to do these tests! Please mum!"
+"It *hurts* mum! I don't like it! It won't let me sleep! I didn't even ever ask for it to be here! I didn't want to do these tests! Please mum! Look at it!"
 
-"*Everyone*
+The demon on my shoulder was gigantic now, twice the size of me. I was constantly humped over in an attempt to balance it's gigantic weight on me. I almost felt like I was more demon than boy. It was so har these days to remember what I did before the demon arrived.
+
+My mum looked at it, her face somehow remaining impassive. 
+
+"What about it? That looks about normal."
+
+"*Mum!!*"
+
+"I went through it too, sweetheart. Everyone does. Don't worry about it, okay? Here, watch this video on study tips."
+
+My shoulder bled.
+
+——
+
+Recently, something extroadinary happened.
+
+ I had been learning of recently about stoicism. I was trying to take the demon's presence positively. It was working a tiny bit, but I still felt the note of discord within me. I still resented the demon. The fact that no one around me saw the demon for the disgusting monster it was made it infinitely worse. The fact that I was taken almost as a joke when I said I didn't want to do the Big Exams made it infinitely worse. 
+
+ Recently, I was scrolling through a group chat I had made a while back, largely populated with people who had grown accustomed to their demon's presence. Hating it but rationalising it, resenting the obligation but relishing the opportunity. Doublethink, I knew it as. 
+
+And as I was scrolling I saw something that made my heart stop. My body went from stationary to a million miles a minute, every cell in me vibrating ferociously as I tried to keep my emotions in check, incase it could be false. 
+
+![](2021-01-05-19-06-40.png)
+
+I suddenly felt a massive wind sweep through the air. It was like an invisible punch, rattling towards me, missing me at the last second and knocking square into the demon, sending it reeling off my shouler, disentigrating with the force of the blow. 
+
+I overide control of my body, just incase the news was false. I slowly, *slowly* raised my other arm, moving down the fabric around my shoulder, expecting to see the bruises and dried blood from the last year of abuse from the demon. 
+
+My shoulder was clear and healthy. 
+
+I realised what this meant, and I *screamed*. I let the elation bubble through me, taking control of my body. I stood, and I *flew*. Without the demon's presence I was as light as a feather. I hadn't moved like this in *years*. It was a deeply foreign experience, and my brain could hardly grasp that this was a reality.
+
+The demon on my shoulder was *dead*. I was, for the first time in years, *free*!
+
+—
+
+The mood in the group chat was quite different. They had taken the adults stories about the demon in stride, and they were terrified of their life prospects without the Big Exams to back them, without the piercing talons of their demons to keep them in check.
+
+- there are millions more chidren who will go throught eh saem experience as above, and millions of children who have. Just because you've gone through a horrible experience, doesn't mean it's good or justifiable, or that it should be enforced on new, innocent lives. Resistance to Chronic Stress is not trainable. 
+
+
+
 
 
 
