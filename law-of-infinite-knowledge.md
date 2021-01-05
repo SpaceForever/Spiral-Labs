@@ -14,3 +14,5 @@ the more rocks you have to filter through more gold?
 doesn't work exactly think more 
 
 30%
+
+You have to get pickier at what you do the more high priority thing you're exposed to.
