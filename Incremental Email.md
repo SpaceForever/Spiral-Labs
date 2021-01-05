@@ -5,7 +5,9 @@ Method of managing large amounts of mail and retaining long term value by splitt
 https://super-memory.com/help/e-mail.htm
 
 
-### Foam Proposal
+
+
+## Foam Proposal
 
 In SuperMemo, incremental writing is based on two facets: priorities and intervals. Imagine that I have this mindmap which I wish to convert into a wiki:
 I can construct a simple queue:
