@@ -22,7 +22,7 @@ And so I woke up each morning, and I studied. I noticed whenever I studied the d
 
 — 
 
-Over the next year, I grew accustomed to the demon's presence whenever a test came. The bigger the (teacher's *said*) the stakes were, the worse the demon's claws hurt, but still I reliveshed the feeling of a painless shoulder at the end of every exam, when the demon let me go. 
+Over the next year, I grew accustomed to the demon's presence whenever a test came. The bigger the teachers said the stakes were, the worse the demon's claws hurt, but still I reliveshed the feeling of a painless shoulder at the end of every exam, when the demon let me go. 
 
 Until one time, at the end of the summer exams, it didn't.
 
@@ -30,7 +30,7 @@ I went to my teacher and asked what the demon was still doing there. She said: "
 
 My teacher walked out of the room, and the demon sunk it's nails deeper, piercing my uniform and tapping its claws against my skin. 
 
-I was terrified. I'd adjusted to the demon's presence, knowing it left whenever I completed an exam. But the exam was two years away! 
+I was terrified. I'd adjusted to the demon's presence, knowing it left whenever I completed an exam. But the exam was two years away! Why would it stay for so long? Why worry me now?
 
 I began to shake ferociously to try and get the demon off, a foolish, foolish move. I knew any attempts to reliquinquish myself from the demon's grasp would only lead to more pain, and this time wasn't an exepction. It dug its claws in depeer in retaliation, piercing through my skin. I cried out into the classroom. 
 
