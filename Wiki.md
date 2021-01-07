@@ -1,9 +1,11 @@
 # Wiki
 
-## Solved: Foam!
+## Host: Foam
 
 ## Questions
 - Space: @rajlego which terms do you want to use for the two minds? Feeling Brain and Thinking Brain? Higher Mind and Primative Mind? Rational Brain and Emotional Brain?
+
+## Consistency
 
 ## Always Sharing
 - Ask on Foam
@@ -22,7 +24,6 @@
 
 - Private vs Public
 
-## 
 
 
 
@@ -52,31 +53,8 @@ Supermemo.guru - knowledge is assumed because everything is interlinked
 [[obsidian + google docs]]
  
 
-If you just set your alarm earlier, it'll still be a perpetual state of unhappiness, 1-2 h delay overlap. It'd still be terrible. 
-
-If i doxxed myself on gingerjumble it'd be cooler
-PROBLEM VALUATION NETWORK
  
 
-
-# doesn't like me being around
-drafting a contract:
-- 
-
-
-elimination towoer
-- sound
-
-
-hello
-=== 
-
- 
-paid off
-
-mum is on my side, concerns are reasonable, they aren't stupid
-
- 
 
 
 Notes with TiddlyWiki
