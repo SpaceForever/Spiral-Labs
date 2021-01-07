@@ -3,7 +3,7 @@
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
-  "workbench.colorTheme": "Solarized Dark",
+  "workbench.colorTheme": "Default Light+",
   "[markdown]": {
     "editor.quickSuggestions": true
   },
@@ -18,5 +18,8 @@
   },
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
-  "foam.edit.linkReferenceDefinitions": "withoutExtensions"
+  "foam.edit.linkReferenceDefinitions": "withoutExtensions",
+  "cSpell.words": [
+    "remnents"
+  ]
 }
