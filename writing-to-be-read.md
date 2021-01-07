@@ -13,6 +13,8 @@ What writers are of such caliber?
 [[Woz]] is
 who else?
 
+[[Mark Manson]]?
+
 ## Possible Factors
 - Independance - any post can be linked to and understood
 - 
