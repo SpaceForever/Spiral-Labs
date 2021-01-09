@@ -3,7 +3,9 @@
 Appeal to common values, and spam? (What [[Woz]] did. )
 
 1. Clear yourself of [[negative emotions]] using empathy.
-   -  If person is angry: Remember they don't understand that [[anger]] is not very useful, and they're probably not a very happy person in general
+   -  If person is angry: Remember they don't understand that [[anger]] is not very useful, and they're probably not a very happy person in general. Thus: pity.
+
+agressive person is making arguments and you have to respond. You can't just leave. How to disarm?
 
 2. Think win-win
    - Understand their concerns (don't overwrite them with yours)
@@ -11,9 +13,8 @@ Appeal to common values, and spam? (What [[Woz]] did. )
 
 
 
-this person doesn't understand that anger is not useful, andd they're proobably not a very happy person in general.
 
-agressive person is making arguments and you have to respond. You can't just leave. How to disarm?
+
 
 
 [[capture concepts not words]]

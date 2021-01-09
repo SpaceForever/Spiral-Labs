@@ -1,4 +1,4 @@
-# Kant's Golden Rule
+r# Kant's Golden Rule
 
 people should always be an end and not a mean
 
