@@ -1,6 +1,6 @@
 # Thread Rambler
 
-IR for threads
+IR for thread
 ## Potential thread resolutions
 - email
 - ir
