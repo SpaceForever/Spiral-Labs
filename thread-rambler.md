@@ -7,7 +7,7 @@ IR for thread
 - tasklist
 
 everything has value / time tasklist
-
+    
 may separate categories
 
 
