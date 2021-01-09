@@ -1,5 +1,21 @@
 # Thread Rambler
 
+IR for threads
+## Potential thread resolutions
+- email
+- ir
+- tasklist
+
+everything has value / time tasklist
+
+may separate categories
+
+
+
+
+
+
+
 add stuff to inbox
 
 
