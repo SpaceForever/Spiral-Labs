@@ -2,6 +2,9 @@
 
 Cornerstone of [[Intellegence]]
 
+## Techniques
+- [[Inversion]]
+
 ## How to improve
 - Focus on your areas of Strength
 - [[Have you googled enough?]]

@@ -1,14 +1,38 @@
 # Meeting 1
 
+Every 20 minutes, quick check
+
+## Think harder about role of the timer
+
+
+Space Outlet as blog, Space LC
+
+Lutterodt Clottey
+
+
+
+people should be able to look me up, people shouldn't think my name is ridiculous 
 ## Agenda
 1. Space's pen name
+    - Space Trolley
+    - **Space Outlet**
+    - 
+
+
+
 
 2. How to write for [[endschoolslaverycom]]
    1. coherent set of introduction to overall ideas
    2. appeal to highest principles
    3. give model, will get there with SPEED
 
-3. 
+
+
+
+3. Thread Rambler
+
+4. Site / Foam
+   1. Jame + timepoof?
 
 
 
