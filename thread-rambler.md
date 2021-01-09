@@ -1,5 +1,12 @@
 # Thread Rambler
 
+add stuff to inbox
+
+
+write quick stuff to ask /nui 5 20 then later, when going through it add to tasklist
+
+
+
 Working title
 
 Thread rambler is meant to allow for writing down all threads you want and using microtags in each line for TR  to put them in the right place
