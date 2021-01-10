@@ -13,7 +13,7 @@ If it's important and don't reply within a week feel free to resend
 
 
 
-Email: rajlego@gmail.com
+Email: tba
 
 [[though-map-writing]]
 
