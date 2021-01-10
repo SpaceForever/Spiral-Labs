@@ -7,7 +7,6 @@ Every 20 minutes, quick check
 
 Space Outlet as blog, Space LUC
 
-Lutterodt Clottey
 
 Space LC
 
