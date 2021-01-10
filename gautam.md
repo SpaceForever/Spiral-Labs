@@ -1,5 +1,5 @@
 # Gautam
-[[SuperMemo User]]
+
 
 
 ## Terminal Value
