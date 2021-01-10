@@ -59,7 +59,7 @@ If you don't get through entire queue (very likely) you need some means of havin
 I write on foam with my friend Space. It would be strongly ideal if we could do incremental writing seperately and his priorities and intervals didn't mess with mine. Probably possible with seperated metadata? It does seem like using IW could make it feasible to have multiple people incrementally contribute to refinement of some set of knowledge (which is what we're already doing, just more arbitrarily and at whim of what seems neatest to us in the moment).
 
 ## Further Work
-I'm more than happy to call or talk much further with anyone interested in implementing this. I've used SM ~2.5 years and [taught](https://supermemo.wiki/start) it for 1, and for around 1 year also used IW (though I stopped when I had complex things I wanted to write about but couldn't figure out how structure them in SM without it being a little tedious. Still find it good enough for one-shot isolated notes).  
+I'm more than happy to call or talk much further with anyone interested in implementing this. I've used SM ~2.5 years and [taught](https://calendly.com/test0009/raj) [it](https://supermemo.wiki/start) it for 1, and for around 1 year also used IW, so I have a fair bit of experience.  
 I'm on the Foam discord now as RajT [work]#9202 so maybe we could make a group there to collaborate?
 
 ## Other Ideas
