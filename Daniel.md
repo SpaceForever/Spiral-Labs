@@ -17,7 +17,7 @@
 ## Weaknessess
 - Poor [[Future Consistency Ability]]
 - Poor [[Focus]]
-- using [[SuperMemo]] 
+- Not using [[SuperMemo]] 
 
 
 Related: [[Guild of Servants]]
