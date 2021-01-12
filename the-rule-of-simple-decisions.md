@@ -14,7 +14,7 @@ This is directly tied in to decision fatigue. Steve Jobs, a known [[Genius]], ap
 Having a daily [[Plan]] is a way to remove thousands of decisions about what to do each second of the day.
 
 ### Routes
-Having a walking routine or running routine is a good way to not waste mental energy deciding w
+Having a walking routine or running routine is a good way to not waste mental energy deciding which way to go.
 
 
 ## Places where this can be used
