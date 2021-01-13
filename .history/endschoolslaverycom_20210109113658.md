@@ -8,7 +8,7 @@ Workflow:
 - any questions, ask raj ([[conversation]] page / #raj and do search?)
 - 
 
-https://www.kqed.org/mindshift/37091/how-do-unschoolers-turn-out
+
 
 
 
