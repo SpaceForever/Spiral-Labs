@@ -17,7 +17,7 @@ Having a daily [[Plan]] is a way to remove thousands of decisions about what to 
 Having a walking routine or running routine is a good way to not waste mental energy deciding which way to go.
 
 ### Phone Calls
-Schedule reccurring meeting times with your friends each week so you don't have to worry every day if you will call someone.
+
 
 
 ## Places where this can be used
