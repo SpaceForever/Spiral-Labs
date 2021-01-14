@@ -74,11 +74,6 @@ End school slavery.
 
 Stop studying and go to sleep.
 
--- 
-
-Related:
-https://supermemo.guru/wiki/Sleep_deprivation_amplifies_the_harm_of_schooling
-
 
 
 

@@ -30,9 +30,9 @@ If you want to perform well on a test, fucking up your sleep is probably the bes
 
 -- 
 
-Keep in mind that your life is never going to change that much, because you take your brain with you wherever you go, into whichever mystical tomorrows you take your brain to, expecting it to change. If you want your brain some day to be the kind that isn't stressed and is healthy, you have to change the one your carrying now — tomorrow doesn't exist. [Tomorrows are just todays](https://gingerjumble.wordpress.com/2021/01/04/tomorrows-are-just-todays/).
+Keep in mind that your life is never going to change that much, because you take your brain with you wherever you go, into whichever mystical tomorrows you take your brain to, expecting it to change. If you want your brain some day to be the kind that isn't stressed and is healthy, you have to change the one your carrying now — tomorrow doesn't exist. Tomorrows are just todays.
 
-If you disrespect your sleep now for what's considered "important" (keeping in mind your sleep is the very *cornerstone* for your health, your [intellegence](https://hackernoon.com/biohack-your-intelligence-now-or-become-obsolete-97cdd15e395f), and your wellbeing - you're *wellbeing*, the very thing I desperately hope you're [fighting for](http://mindingourway.com/half-assing-it-with-everything-youve-got/)) you'll *always* disrespect your sleep for what's considered important. Break the chain now. Prioritize your health and wellbeing, it's all that you are.
+If you disrespect your sleep now for what's considered "important" (keeping in mind your sleep is the very *cornerstone* for your health, your [intellegence](https://hackernoon.com/biohack-your-intelligence-now-or-become-obsolete-97cdd15e395f), and your wellbeing - you're *wellbeing*, the very thing I desperately hope you're fighting for]) you'll *always* disrespect your sleep for what's considered important. Break the chain now. Prioritize your health and wellbeing, it's all that you are.
 
 The less you sleep, the shorter your life.
 
@@ -73,11 +73,6 @@ Stop giving every part of yourself to a destiny you didn't choose.
 End school slavery.
 
 Stop studying and go to sleep.
-
--- 
-
-Related:
-https://supermemo.guru/wiki/Sleep_deprivation_amplifies_the_harm_of_schooling
 
 
 
