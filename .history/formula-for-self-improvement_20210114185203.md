@@ -52,19 +52,17 @@ Do these well and your body should be on your side.
       - Superstimuli and the fall of Western Civilation
 
 4. Embrace a Tribe
-   
-    - **Do you have a tribe?**
-  
-    -  Yes
-        - Are you proud to be in it? Is it fun? Do they share your core values?
-        - Yes
-            - Double down on time spent there to strengthen friendships and have closer bonds. You've found your people, that's amazing! Make good use of them.
-        - No to any 
-            - You need to find a new tribe!
-      No
-        - You need to find a tribe!
-        - Find the people who like the same things you like
-        - Consider: LessWrong / University of Bayes / College Info Geek /  SuperMemo.Wiki for self improvement tribes.
+   **Do you have a tribe?**
+   - Yes
+     - Are you proud to be in it? Is it fun? Do they share your core values?
+       - Yes
+         - Double down on time spent there to strengthen friendships and have closer bonds. You've found your people, that's amazing! Make good use of them.
+       - No to any 
+         - You need to find a new tribe!
+   - No
+     - You need to find a tribe!
+     - Find the people who like the same things you like
+     - Consider: LessWrong / University of Bayes / College Info Geek /  SuperMemo.Wiki for self improvement tribes.
 
 
 
@@ -73,7 +71,7 @@ Do these well and your body should be on your side.
     - Scott Alexander on tribes and flags
    
 
-5. Gain Scope
+4. Gain Scope
     - If you already have something you're working towards:
       -  read Half Assing it with Everything You've Got
    - If you don't already have something:
@@ -90,34 +88,27 @@ Do these well and your body should be on your side.
      - Ironically, reading Dystopian novels / keepign in the forefront of your mind the people suffering in the third world can help with this. 
      - Read tonnes of Philosophy
        - Meditations and the Navalmanack are particularly wisdom dense.
-   - Commit to not complaining about anythiing ever again. Then do it.
-   
 
 
 
 ## Level 4:
 
 Create Feedback Loops
-   - Create a spredsheet, figure out a way to make yourself check it everyday and do so.
-     - Opened Sheet (MOST IMPORTANT FIELD. if you check nothing else every day, that's fine. JUST check this field.)
-     - Sleep time / wake time
-     - If you died today, would you be happy? 
-     - How much did you follow your schedule?
-       - If no, why not?
-     - Biggest bug of today
-       - How to fix?
-    - Periodically analyse and adjust based on what your data tells you.
+- Create a spredsheet, figure out a way to make yourself check it everyday and do so.
+  - Opened Sheet (MOST IMPORTANT FIELD. if you check nothing else every day, that's fine. JUST check this field.)
+  - Sleep time / wake time
+  - If you died today, would you be happy? 
+  - How much did you follow your schedule?
+    - If no, why not?
+  - Biggest bug of today
+    - How to fix?
 
- - **Relevant Posts*
-    - Neel Nanda google forms
-     - No day is wasted if you learned from it
-     - Sunset at Noon
-
-
-
-
+- **Relevant Posts**
+  - Neel Nanda google forms
+  - No day is wasted if you learned from it
+  - 
   
-Things to add: Learning
+
     
 
 

@@ -49,22 +49,21 @@ Do these well and your body should be on your side.
       - Do the real thing
       - Acceleration of addictiveness
       - Naval Ravikant the modern struggle
-      - Superstimuli and the fall of Western Civilation
+      - Superstimuli and the Rat something
 
-4. Embrace a Tribe
+4. Embrace Community
    
-    - **Do you have a tribe?**
-  
-    -  Yes
-        - Are you proud to be in it? Is it fun? Do they share your core values?
-        - Yes
-            - Double down on time spent there to strengthen friendships and have closer bonds. You've found your people, that's amazing! Make good use of them.
-        - No to any 
-            - You need to find a new tribe!
-      No
-        - You need to find a tribe!
-        - Find the people who like the same things you like
-        - Consider: LessWrong / University of Bayes / College Info Geek /  SuperMemo.Wiki for self improvement tribes.
+   **Do you have a tribe?**
+   - Yes
+     - Are you proud to be in it? Is it fun? Do they share your core values?
+       - Yes
+         - Double down on time spent there to strengthen friendships and have closer bonds. You've found your people, that's amazing! Make good use of them.
+       - No to any 
+         - You need to find a new tribe!
+   - No
+     - You need to find a tribe!
+     - Find the people who like the same things you like
+     - Consider: LessWrong / Unversity of Bayes / Quan SuperMemo.Wiki users for self improvement tribes.
 
 
 
@@ -83,41 +82,9 @@ Do these well and your body should be on your side.
 
 ## Level 3: Emotional Alignment
 
-(Space: Am working on this one right now, as well as tribe.)
-
-6. Eliminate Desires
-   - Create a habit of cultivating gratitude and do it.
-     - Ironically, reading Dystopian novels / keepign in the forefront of your mind the people suffering in the third world can help with this. 
-     - Read tonnes of Philosophy
-       - Meditations and the Navalmanack are particularly wisdom dense.
-   - Commit to not complaining about anythiing ever again. Then do it.
-   
-
-
-
-## Level 4:
-
-Create Feedback Loops
-   - Create a spredsheet, figure out a way to make yourself check it everyday and do so.
-     - Opened Sheet (MOST IMPORTANT FIELD. if you check nothing else every day, that's fine. JUST check this field.)
-     - Sleep time / wake time
-     - If you died today, would you be happy? 
-     - How much did you follow your schedule?
-       - If no, why not?
-     - Biggest bug of today
-       - How to fix?
-    - Periodically analyse and adjust based on what your data tells you.
-
- - **Relevant Posts*
-    - Neel Nanda google forms
-     - No day is wasted if you learned from it
-     - Sunset at Noon
-
-
-
-
+(Space)
   
-Things to add: Learning
+
     
 
 

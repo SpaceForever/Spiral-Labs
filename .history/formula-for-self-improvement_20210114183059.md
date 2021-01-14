@@ -34,43 +34,23 @@ You are a [[Genius]] when you excercise everyday, work everyday, set large goals
 
 Do these well and your body should be on your side. 
 
-## Level 2: Maintaining Your Sanity (Addiction & Scope & Friendship)
+## Level 2: Maintining Your Sanity (Addiction & Scope & Friendship)
 
 3. Freeing from Addictions
     - Delete accounts from obvious offenders and remove from phone
+    - A
     - tell friends to message you elsewhere. If they refuse, accept it and move anyway.
     - Embrace silence
       - slowly shift from media which takes up all your senses while eating (TV) to media that uses less (like podcasts). Then shift towards silence during meals. do this INCREMENTAlLy. Meals are vital thinking time.
       - If you haven't broken the sanctity of the bathroom as tech-free zone, DON'T! EVER! Phase away from using your phone as you sit on the toilet and having sound on as you shower. Reclaim the thinking time.
-    - Eliminate Bad Addictions
-      - A good heuretic for the quality of an addiction: if you doubled the amount of time spent on it, would you be happy? And, are you happy after finishing it? Learning and excercise pass both these tests. 
   
     - Notable Posts:
       - Do the real thing
       - Acceleration of addictiveness
       - Naval Ravikant the modern struggle
-      - Superstimuli and the fall of Western Civilation
+      - Superstimuli and the Rat something
 
-4. Embrace a Tribe
-   
-    - **Do you have a tribe?**
-  
-    -  Yes
-        - Are you proud to be in it? Is it fun? Do they share your core values?
-        - Yes
-            - Double down on time spent there to strengthen friendships and have closer bonds. You've found your people, that's amazing! Make good use of them.
-        - No to any 
-            - You need to find a new tribe!
-      No
-        - You need to find a tribe!
-        - Find the people who like the same things you like
-        - Consider: LessWrong / University of Bayes / College Info Geek /  SuperMemo.Wiki for self improvement tribes.
-
-
-
-    **Notable Posts**
-    - Wait but why on tribes
-    - Scott Alexander on tribes and flags
+4. 
    
 
 5. Gain Scope
@@ -83,41 +63,9 @@ Do these well and your body should be on your side.
 
 ## Level 3: Emotional Alignment
 
-(Space: Am working on this one right now, as well as tribe.)
-
-6. Eliminate Desires
-   - Create a habit of cultivating gratitude and do it.
-     - Ironically, reading Dystopian novels / keepign in the forefront of your mind the people suffering in the third world can help with this. 
-     - Read tonnes of Philosophy
-       - Meditations and the Navalmanack are particularly wisdom dense.
-   - Commit to not complaining about anythiing ever again. Then do it.
-   
-
-
-
-## Level 4:
-
-Create Feedback Loops
-   - Create a spredsheet, figure out a way to make yourself check it everyday and do so.
-     - Opened Sheet (MOST IMPORTANT FIELD. if you check nothing else every day, that's fine. JUST check this field.)
-     - Sleep time / wake time
-     - If you died today, would you be happy? 
-     - How much did you follow your schedule?
-       - If no, why not?
-     - Biggest bug of today
-       - How to fix?
-    - Periodically analyse and adjust based on what your data tells you.
-
- - **Relevant Posts*
-    - Neel Nanda google forms
-     - No day is wasted if you learned from it
-     - Sunset at Noon
-
-
-
-
+(Space)
   
-Things to add: Learning
+
     
 
 
