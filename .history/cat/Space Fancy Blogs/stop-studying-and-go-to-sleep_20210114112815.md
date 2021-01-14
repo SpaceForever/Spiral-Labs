@@ -66,6 +66,7 @@ You never wanted this and you know it.
 
 The universe didn't exist for billions of years, the earth jump through millions of hurdles to be sustainable, humanity didn't fight wars and evolve for millennia, so that other humans could tell you what to put into your brain, and keep that "required knowledge" the same for 150 years.
 
+
 You never wanted this and you know it. The system propagates on delusion and compliance.
 
 Stop giving every part of yourself to a destiny you didn't choose.

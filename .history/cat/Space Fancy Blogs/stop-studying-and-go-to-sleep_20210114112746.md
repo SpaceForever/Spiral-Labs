@@ -64,7 +64,7 @@ The education system is an abhorrent waste of time, emotion, and energy for *eve
 
 You never wanted this and you know it.
 
-The universe didn't exist for billions of years, the earth jump through millions of hurdles to be sustainable, humanity didn't fight wars and evolve for millennia, so that other humans could tell you what to put into your brain, and keep that "required knowledge" the same for 150 years.
+The universe didn't exist for billions of years, the earth jump through millions of hurdles to be sustainable, humanity didn't fight wars and evolve for millenia, so that other humans could tell you what to put into your brain.
 
 You never wanted this and you know it. The system propagates on delusion and compliance.
 
