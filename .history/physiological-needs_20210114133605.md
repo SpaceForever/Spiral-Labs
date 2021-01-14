@@ -9,7 +9,7 @@ Treat it well and you'll propser. See [[Woz]] and [[Naval Ravikant]] for example
 Keep it simple. Just run. Start small with walks then build up. Do it immediately apon waking so there's no distractions. Prioritise it above everything else, even if your life is overfloiwing, run first.
 
 ## Nutrition
-Slowly phase out sugar. Make sure you have [[internal alignment]], it makes it monumentally easier. For me, [[Space]], I have a disgust response to sugar because I see it as a body destroyer. I am quite averse to messing up my body pre-singularity. Thus I naturally don't want to add sugar to anything.
+Slowly phase out sugar. Make sure you have [[internal alignment]], it makes it monumentally easier. For me, [[Space]], I have a disgust response to sugar because I see it as a body destroyer. I am quite averse to messing up my body pre-singularity.
 
 
 

@@ -3,10 +3,7 @@
 Central interest of [[Spiral Labs]].
 
 (Related: [[Instrumental Rationality]])
-
-Listed in order of importance:
-
-## [[Ph]]
+##
 
 
 ## Productivity

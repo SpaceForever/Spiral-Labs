@@ -5,5 +5,3 @@ I think it is better to ignore and be more inconsistent
 find post from replacing guilt
 
 Confidence all teh way up?
-
-You're Allowed to be Inconsistent
