@@ -6,7 +6,7 @@ Central interest of [[Spiral Labs]].
 
 Listed in order of importance:
 
-## [[Ph                       ]]
+## [[Ph                        ]]
 
 
 ## Productivity
