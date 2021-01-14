@@ -6,13 +6,9 @@ You may be watching motivation videos every once in a while.
 
 Every couple minutes you fight off the urge to collapse into the unconscious your brain so desperately wants to retreat to, armed against the tug of sleep by the shame you know you'll feel if you stop studying now.
 
-Well I have an unorthodox bit of advice. I hereby give you permission to:
+Well I have an unorthadox bit of advice. I hereby give you permission to:
 
 **Stop studying and go to sleep**.
-
-You've *made* your mistake. You didn't start studying soon enough. Good. Fine. Write down what you've done wrong, write it down in a way you'll *know you'll come back to so you don't make the same mistake again*, and then never make the same mistake again. Write down exactly what algorithm in your decision making process led to your failure, and go into your code, fix that bug, and then go to sleep.
-
-
 
 
 

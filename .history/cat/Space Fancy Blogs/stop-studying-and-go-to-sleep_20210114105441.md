@@ -10,9 +10,7 @@ Well I have an unorthodox bit of advice. I hereby give you permission to:
 
 **Stop studying and go to sleep**.
 
-You've *made* your mistake. You didn't start studying soon enough. Good. Fine. Write down what you've done wrong, write it down in a way you'll *know you'll come back to so you don't make the same mistake again*, and then never make the same mistake again. Write down exactly what algorithm in your decision making process led to your failure, and go into your code, fix that bug, and then go to sleep.
-
-
+You've *made* your mistake. You didn't start studying soon enough. Good. Fine. Write down what you've done wrong, 
 
 
 
