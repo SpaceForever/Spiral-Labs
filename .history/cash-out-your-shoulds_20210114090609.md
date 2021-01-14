@@ -1,0 +1,4 @@
+# Cash Out Your Shoulds
+
+> Similarly, it's the options you can't weigh that really cost you.People often seem to use the word "should" to assign a value of "negative infinity" to all alternative actions They should do X, so if they don't do X, they're bad, end of story. Some people have trouble unpacking a should for the same reason they have trouble staring at a failure: they have a mental geas against seriously considering alternatives, against weighing them on the scales. One common symptom of this behavior is a tendency to do a fake unpacking of the should, e.g. by translating "I should finish this paper" to "I need to finish this paper": notice how this trades one negative-infinity analysis for another, without ever reconnecting the task to the goal or acknowledging the alternatives.
+
