@@ -4,7 +4,7 @@ Somewhat the opposite of [[extroversion]]
 
 ## Solution
 - [[Thought Maps]]
-- Incremental Attatchment
+- [[Incremental Attachment]]
   - don't assume people's judgements matter yet
 
 
