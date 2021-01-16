@@ -29,7 +29,7 @@ People:
   - wants money probably   
 
 
-write down risky    
+write down risky        
 
 
 - Smeti
