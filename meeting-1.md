@@ -13,6 +13,8 @@ Space LC
 site -—
 space outlet
 
+Wait, why tf didn't we go for something that's totally anonymous?
+
 people should be able to look me up, people shouldn't think my name is ridiculous 
 ## Agenda
 1. Space's pen name
