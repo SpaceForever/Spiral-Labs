@@ -63,3 +63,6 @@ At the very minimum they do hegarty for me since that's super easy.
 That'll free up some 5~ hours per week.
 
 How much would that be, like 20£ a week for all hegarty for 5 hours of work? that's 80£ a a month, a fair bit. 
+FUCK me
+I just want a break. 
+I don't have to not have a break...
