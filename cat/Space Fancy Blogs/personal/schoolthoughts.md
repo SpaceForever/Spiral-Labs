@@ -21,6 +21,43 @@ potential risks:
   - 
 
 
+
+People:
+
+- Salima
+  - reliable
+  - wants money probably   
+
+
+write down risky    
+
+
+- Smeti
+
+
+- Mesmain Connell Scott
+
+- Jelinek Veronica
+
+- Haresh Diya
+
+- Ahmad Saira
+
+- Akhtar Smeti
+
+- Arifuzzaman Mamun
+BS
+Bhattacharyya Swadhin
+BK
+Biruk Kalkidan
+CB
+Chen Benjamin
+CF
+Chowdhury Fahim
+CS
+Chowdhury Salima
+
+
 Plan:
 At the very minimum they do hegarty for me since that's super easy. 
 That'll free up some 5~ hours per week.
