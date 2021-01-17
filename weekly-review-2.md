@@ -30,3 +30,27 @@ We Must do problem map at least 3 times a week and have proof
 have internet slayed after 9, edge is just closed. 
 
 consier using edge closed. 
+
+think about why people actually disagreed with you. 
+
+write one example per day
+
+when you talk to someone who seems so wrong, see which values are important and why. 
+
+what is it about social interaction you're missing? What are the other details? Improve your verticle connections
+
+
+1. Extreme challenges
+
+2. No Complaining
+
+
+
+Whenever you have a call, take notes of what you found valuable: 
+- OK. 
+
+
+
+
+
+
