@@ -2,7 +2,11 @@
 
 ## Caffeine prediction
 Raj: you will take more caffeine and not feel any better
-Space: I will take more caffeine and get used to it
+raj: 70/30 i'll develop tolerance and not feel better than average (assuming no naps) meaning it isn't good to keep taking
+
+Space: I will take more caffeine and gain slight tolerance and not get used to it   
+pls update
+
 
 
 ## Telegram challenges
