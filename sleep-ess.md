@@ -25,7 +25,7 @@ If interupting sleep is so bad, how come I'm fine?
 
 [what to say here that something is wrong with you]
 
-Unfortunately in states of intense sleep deprivation, the brain is unable to accurately measure just how sleep deprived it is. Thus people who are functionnig far, far below their baseline due to inadequate sleep come to treat it as their new normal.
+Unfortunately in states of intense sleep deprivation, the brain is unable to accurately measure just h  ow sleep deprived it is. Thus people who are functionnig far, far below their baseline due to inadequate sleep come to treat it as their new normal.
 
 It is an incredibly common and uplifting story of how people come to prioritise their sleep and find great wells of energy and happiness previously unfamiliar to them. 
 
