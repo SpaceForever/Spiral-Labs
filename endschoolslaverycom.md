@@ -44,7 +44,7 @@ how do the parts of school tie it ini kids?
 Want success and health for school
 1. prove that school effects aren't good for ochildren
     - massive scale torture.
-                          - SLEEP DEPRIVATION IS NOT ACTUALLY GOOD. science. emotional science ;)
+          - SLEEP DEPRIVATION IS NOT ACTUALLY GOOD. science. emotional science ;)
 
     [[Sleep ESS]]
 2. prove that school learning is not good for children
