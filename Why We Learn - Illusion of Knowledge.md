@@ -1,5 +1,8 @@
 # Why We Learn - Illusion of Knowledge
 
+
+[[Script - Why We Learn - Illusion of Knowledge ]]
+
 (Written by [[Space]])
 > The genuine love for reading itself, when cultivated, is a superpower. We live in the age of Alexandria, when every book and every piece of knowledge ever written down is a fingertip away. The means of learning are abundant—it’s the desire to learn that is scarce. [3]Reading was my first love. [4] ~ The Navalmnack
 

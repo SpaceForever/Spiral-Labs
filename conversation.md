@@ -1,5 +1,9 @@
 # Conversation
 
+
+## Why We Learn Script
+
+#raj what's the point? What's the question to be answered? in [[script why we learn illusion of knowledge]]
 ## School thoughts
 
 #Raj see [[schoolthoughts]]
