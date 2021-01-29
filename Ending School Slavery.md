@@ -1,6 +1,15 @@
 
 # Ending School Slavery
 
+Notes from sock: don't worry about growing and growing and growing. If you have stuf fhta't slready great, go for it. You could go on indefinately with adding things, but don't do that. The scope should be small, and reavaluate from there. 
+
+Lunis: look at it from a EA lense. 'Tractability' 'Neglectedness' issues
+could be easy to find weak leverage points. try find points of high leverage points. 
+
+Be careful of it being a bottomless well of effort. make sure the stuff you're doing is high effort. What's your precise angle?
+
+space: perhaps look at things that already have support
+
 ## Next Steps
 ### Space
 1. (Space) Learn what kind of material actually goes viral among teenagers
