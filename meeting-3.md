@@ -1,11 +1,57 @@
 # Meeting 3
 
+## Agenda
+1. explain weeks
+2. set new challenges
+3. go ovoer plan totals
+
+
+
+## Raj week
+- super happy
+  - came to realisation about eliminate layer of judgement
+
+Raj:
+
+use microrule to fix problem
+
+
+if you don't like the problem, apply stoicism
+
+ask for help
+
+there's damage between taking damage & being taught everything
+
+you have as much time as you want...
+
+
+A Razor is a principle that allows one to eliminate explanations or unnecessary actions.    
+
+Asking for help: could you fix it ifi you thought about it for an hour? 
+
+Ask for inspiration... 
+
+
+INformation diet!
+
 ## Challenge:
 
 1. No complaints
     
 
+Breathing techniques:
+1. breathe in for out for 8 seconds
+2. 
 
+v
+
+## New Challenge
+
+1. information diet
+
+30 minutes of internet per day?
+
+Discord unblocked
 
 
 
