@@ -59,6 +59,15 @@ Supermemo unblocked at all times
 
 
 
+notes on meeting:
+1. school plan
+2. actively try to fix reflective systems
+3. talk about signal stuff
+
+not sure what to t
+
+
+
 
 
 
