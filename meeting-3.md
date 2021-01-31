@@ -55,6 +55,16 @@ Discord unblocked
 
 
 
+Supermemo unblocked at all times
+
+
+
+
+
+
+
+
+
 
 
 
