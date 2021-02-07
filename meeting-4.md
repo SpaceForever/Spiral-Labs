@@ -6,3 +6,7 @@ Imagine 60 years from now talking to people who aren't woz and raj. What would y
 
 
 Raj - how to make the world better. have i created people that save the world from suffering?
+
+space worried he's losing past selves
+
+dont necessarily assume things (eg. feelings) are immutable
