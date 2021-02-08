@@ -1,4 +1,4 @@
-
+ca
 # Ending School Slavery
 
 Notes from sock: don't worry about growing and growing and growing. If you have stuf fhta't slready great, go for it. You could go on indefinately with adding things, but don't do that. The scope should be small, and reavaluate from there. 
