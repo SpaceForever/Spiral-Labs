@@ -40,9 +40,38 @@ understand experience.
 What's the main goal?
 - pleasureable learningng 
 - vs making people effective
+  - how do you pleasurebly learn and DO
+  - lower transaction cost
+    - no importing timee
+    - 
+  - how to program your goal into the system
+  - 
 - help people get better at solving problems?
 
+- how to get people more effectivetive??    
+  - how do I be a multiplier?
+  - 
 
+
+
+
+Pragmatic vs Logical vs Intuitive
+
+- when Increment is ready, make proper test for it...
+
+
+SuperMemo isn't effective or not effective , there's a scale
+
+things aren't binary
+
+if supermemo is a memetic virus. you infect 5 people, you invent 5 people
+`
+
+if you wanna have the most 
+
+
+- maybe supermemo is so good and it just fades into the background?
+- 
 
 [[Efficient vs Effective]]
 
