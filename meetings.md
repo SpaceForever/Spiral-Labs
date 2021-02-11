@@ -1,5 +1,8 @@
-[[Meeting 1]]
+# Meetings
 
+
+
+[[Meeting 1]]
 [[Meeting 2]] - Ess Writing Reflection
 [[Meeting 4]]
 
@@ -9,7 +12,6 @@
 [[Weekly Review 1]]
 [[Weekly Review 2]]
 [[Weekly Review 3]]
-    
     - money making persuits
     - 
 

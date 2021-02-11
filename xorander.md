@@ -1,4 +1,4 @@
 # Xorander
 
 [[Daniel]]
-a real g
+Super cool guy

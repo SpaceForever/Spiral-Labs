@@ -1,10 +1,14 @@
-# Theory of Mind
+# Theory of mind
 
 Can be increased by reading fiction.
 
-[[Space]] has noticed that people who tend to read more are somwhat different than those who don't. 
+[[Space]] has noticed that people who tend to read more are somewhat different than those who don't. 
 
 [[Raj]], [[Space]] and [[Xorander]] all read fiction fervently as children, likely contributing to their relative maturity.
+
+thistbh i wonder how things are going in that other place where things happen hahahaha
+
+Apes that has ve  ught
 
 https://supermemo.guru/wiki/Rat_Park
 
