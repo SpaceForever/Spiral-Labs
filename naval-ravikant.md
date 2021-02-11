@@ -3,9 +3,10 @@
 Certified [[Genius]]. 
 
 ## Interests
-- Philosophy
+- Philosophy]
 - [[Living with the weight of death]]
 - [[Meditation]]
+- [[Getting Rich]]
 
 
 

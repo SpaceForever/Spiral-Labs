@@ -1,2 +1,0 @@
-# Formula for Self Improvement
-
