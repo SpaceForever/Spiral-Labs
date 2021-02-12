@@ -3,7 +3,7 @@
 ## Host: Foam
 
 ## Questions
-- Space: @rajlego which terms do you want to use for the two minds? Feeling Brain and Thinking Brain? Higher Mind and Primative Mind? Rational Brain and Emotional Brain?
+
 
 ## Consistency
 
@@ -24,8 +24,7 @@
 
 - Private vs Public
 
-
-
+- How to make the graph actually useful?
 
 
 

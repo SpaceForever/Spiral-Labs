@@ -10,10 +10,10 @@
   - how to learn and DO   
     priotity research
         - figure out what's helpful in the EA community and how IR can be helped
+  - How can programmers use it?
 
 
-
-
+Can be closed source but with API.
 
 
 
