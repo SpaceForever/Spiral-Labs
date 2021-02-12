@@ -2,7 +2,7 @@
 
 [[SuperMemo.Guru]]
 
-Minding Our Way by [[Nate Soares]]?
+Minding Our Way by [[Nate Soares]]? (home of replacing guilt)
 
 [[LessWrong]]
 

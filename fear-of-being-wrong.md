@@ -7,3 +7,5 @@ find post from replacing guilt
 Confidence all teh way up?
 
 You're Allowed to be Inconsistent
+
+[[feedback-loops]]

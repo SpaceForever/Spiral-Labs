@@ -8,3 +8,5 @@ Those closer to you, who've earned your seriorsity through their sanity and sens
 
 despite appearing to love ourselves more than other people and take ourselves more seriously, we value their opinino more. Why is that? Why isn't incremental attatchment the default?
 
+
+

@@ -7,6 +7,7 @@ How do you go beyond this
 
 ## Potential Solutions
 - Read a lot of fiction because it builds [[Theory of Mind]]
+- Read widely in general. Read history.
 
 [[tradition-and-colloquialism]]
 

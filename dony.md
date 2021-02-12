@@ -10,6 +10,7 @@
 # Interests
 - [[Instrumental Rationality]]
 - Entrepenurialship
+- [[Getting Rich]]
 
 # Strenghts 
 - [[Programming]]

@@ -6,6 +6,8 @@ Method for attaining focus on the present moment.
 
 
 ## Proponents
+- [[Naval Ravikant]]
+
 
 
 

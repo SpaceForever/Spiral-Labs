@@ -6,6 +6,7 @@ Cornerstone of [[Intelligence]]
 
 ## Techniques
 - [[Inversion]]
+- First Principles thinking. Keep the goal in mind.
   
 From Principles:
     The five steps are

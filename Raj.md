@@ -9,6 +9,7 @@ Creator of [[Spiral Labs]]
 
 ## Curent Goal: 
 - [[Self Improvement]]
+- Learning Design, building [[Increment]]
 - Considering [[Getting a Girlfriend ]]
 
 ## Current Framework of Existence

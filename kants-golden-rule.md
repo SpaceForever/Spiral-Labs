@@ -1,6 +1,6 @@
-r# Kant's Golden Rule
+# Kant's Golden Rule
 
-people should always be an end and not a mean
+people should always be an end and not a mean. Also supported by [[Mark Manson]]
 
 is this good? 
 it doesn't seem like it 

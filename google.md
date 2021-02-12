@@ -1,2 +1,3 @@
 # Google
 
+Use duckduckgo instead

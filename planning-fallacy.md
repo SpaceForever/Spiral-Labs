@@ -8,7 +8,7 @@ Outside view and general overcorrection can be used to correct for planning fall
 
 inside view vs outside view
 
-inside view: predict based on what know
+inside view: predict based on what has happened to you
 outside view: predict based on similar classes
 
 
