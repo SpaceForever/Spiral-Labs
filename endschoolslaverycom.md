@@ -64,7 +64,7 @@ Want success and health for school
 - Sleep
     - Points
         - Interupting sleep destroys the brain
-            - All schools require the children to wake up early in the morning, often in what is apparent to be incredibly painful conditions for them. Getting out of bed despite your biology screaming at you to sleep is widely considered to be a sign of strength, however not all acts of self-discpline are good. Jumping of a cliff requires self-discipline, but it does not mean it is good for you. Many teenagers 
+            - *All schools require the children to wake up early in the morning, often in what is apparent to be incredibly painful conditions for them. Getting out of bed despite your biology screaming at you to sleep is widely considered to be a sign of strength, however not all acts of self-discpline are good. Jumping of a cliff requires self-discipline, but it does not mean it is good for you. Many teenagers *
         - Fighting one's biology is not a sign of strength
             - Not all acts of courage are good. 
     - Sites
