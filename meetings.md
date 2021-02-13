@@ -7,6 +7,7 @@
 [[Meeting 4]]
 
 
+[[space problems]]
 
 ## Weekly Review
 [[Weekly Review 1]]
@@ -19,6 +20,7 @@
 [Meeting 1]: meeting-1 "Meeting 1"
 [Meeting 2]: meeting-2 "Meeting 2"
 [Meeting 4]: meeting-4 "Meeting 4"
+[space problems]: space-problems "Space Problems"
 [Weekly Review 1]: weekly-review-1 "Weekly Review 1"
 [Weekly Review 2]: weekly-review-2 "Weekly Review 2"
 [Weekly Review 3]: weekly-review-3 "Weekly Review 3"
