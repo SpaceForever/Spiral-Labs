@@ -63,12 +63,19 @@ Want success and health for school
 ## Wellbeing
 - Sleep
     - Points
-        - Interupting sleep destroys brain
-        - fighting ones biology is not a sign of strength
+        - Interupting sleep destroys the brain
+            - All schools require the children to wake up early in the morning, often in what is apparent to be incredibly painful conditions for them. Getting out of bed despite your biology screaming at you to sleep is widely considered to be a sign of strength, however not all acts of self-discpline are good. Jumping of a cliff requires self-discipline, but it does not mean it is good for you. Many teenagers 
+        - Fighting one's biology is not a sign of strength
+            - Not all acts of courage are good. 
     - Sites
-        - schoolstarttimes.org
+         - schoolstarttimes.org
+             - meticulously outlines with science the long term physiological harms of forcing teenagers to    wake up against
+             their biological clocks in time for school
+        - supermemo.guru/kill_the_alarm_clock
+            - further scientific commentary 
          - alienmechanic.com
-         - supermemo.guru sleep and teenage brains
+            - A fifteen year old meticulously tracks variables involved in sleep for over a month in an attempt to feel even slightly alert. Sleeping in earlier is found to be the only solution around day 30, but his school does not take his request to sleep in later seriously. 
+         
 
 - Happiness
     - Points
@@ -76,6 +83,8 @@ Want success and health for school
     - Sites
         - learn drive = Happiness
         - look at babies & dogs. constantly fascinated with learning abotu the world, more happy than most kids.
+
+
 
 - Chronic Stress & futile grit
     - Points
@@ -85,6 +94,8 @@ Want success and health for school
             - real tests should not have artificial rules
             - removes intrinsic motivation in learning
             - knowledge should be useful by its applicability
+        - makes kids think that life is not to be enjoyed
+            - by creating stressful
     - Sites
         - supermemo.guru/chronic Stress
         - love your work, paul graham
@@ -107,6 +118,7 @@ Want success and health for school
     - Sites
         - [[Eliezer Yudkowsky]] has something on conformity?
         - Scenes from Captain Underpants to understand how it feels to teens
+        - video on classroom comformity, utterly chilling.
         - Behaviour imporvement room
         - True Face of the Enemey & 1984 is today for teens
         - Mr Hanif "use less of mouth and more of ears"
@@ -121,7 +133,7 @@ Want success and health for school
     - Points
         - Freedom builds happy individuals.
         - It's what we all work towards in our lives, why restrict it from our children?
-        - 
+        - creates agenty, inspired adults
     - Sites
         - SuperMemo.guru, i like freedom
 
