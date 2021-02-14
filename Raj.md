@@ -61,6 +61,7 @@ stuff want to write
 [Raj's Goals]: rajs-goals "Raj's Goals"
 [Humanistic Utilitarianism]: Humanistic Utilitarianism "Humanistic Utilitarianism"
 [Self Improvement]: self-improvement "Self Improvement"
+[Increment]: increment "Increment"
 [Getting a Girlfriend]: getting-a-girlfriend "Getting a Girlfriend"
 [humanistic utilitarianism]: Humanistic Utilitarianism "Humanistic Utilitarianism"
 [Plan]: plan "Plan"

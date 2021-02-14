@@ -2,6 +2,8 @@
 
 Excuses are when you promise to reality to fail in the excact same way the next time the same problem happens. 
 
+Many philosophies describe a way of being that involves taking full responsibilty for everything that goes on in your life. This doesn't require guilt.
+
 ## Posts
 - Have No Excuses - [[Nate Soares]]
 - 
