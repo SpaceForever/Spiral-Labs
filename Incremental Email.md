@@ -4,6 +4,9 @@ Method of managing large amounts of mail and retaining long term value by splitt
 
 https://super-memory.com/help/e-mail.htm
 
+## How to decrease friction?
+    - Setup a send-only mail account [link this]
+
 
 
 

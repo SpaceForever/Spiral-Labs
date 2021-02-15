@@ -25,7 +25,43 @@ Have tabs with priority interval
 
 
 
+## Thoughts
+- A classic paper [...] stipulates that “many innovations fail
+because consumers irrationally overvalue the old while companies
+irrationally overvalue the new.”
 
+When I read this I thought: okay, if we try to give people SM style queue where 1 article is presented at a time, it's a new paradigm. They have to adapt.
+Instead of that, what about presenting it as a feed? The priority queue is just not intuitive to people compared to a feed
+
+If we say: increment is a feed of whatever you want to read. It lets you go through that material in an easy, effortless way depending on how much attention and interest you have.
+The word queue by comparison reeks of 'work' and 'must do' while feed is just something you open up when you're bored and wile away.
+
+Even for me, I have not perfect associations with SM style queue. With a feed, there's just no effort. I think we could make something easier to open than say twitter or facebook that you know has the content you want. I have ideas about shortcuts for arrow keys too that I think could be fun and make it as easy to go through as swiping in tinder. 
+
+
+the paper referenced: http://web.mit.edu/mamd/www/tech_strat/courseMaterial/topics/topic4/readings/Eager_Sellers_and_Stony_Buyers/Eager_Sellers_and_Stony_Buyers.pdf/Eager_Sellers_and_Stony_Buyers.pdf
+
+
+
+original source from hooked:
+Many entrepreneurs fall into the trap of building products that are
+only marginally better than existing solutions, hoping their innovation
+will be good enough to woo customers away from existing products.
+But when it comes to shaking consumers’ old habits, these naive
+entrepreneurs often find that better products don’t always win—
+especially if a large number of users have already adopted a
+competing product.
+[...] A classic paper by John Gourville, a professor of marketing at
+Harvard Business School, stipulates that “many innovations fail
+because consumers irrationally overvalue the old while companies
+irrationally overvalue the new.”10
+Gourville claims that for new entrants to stand a chance, they
+can’t just be better, they must be nine times better. Why such a high
+bar? Because old habits die hard and new products or services need
+to offer dramatic improvements to shake users out of old routines.
+Gourville writes that products that require a high degree of behavior
+change are doomed to fail even if the benefits of using the new
+product are clear and substantial.
 
 
 

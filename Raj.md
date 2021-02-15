@@ -41,6 +41,7 @@ Creator of [[Spiral Labs]]
 ## Creations
 - [[Thought Maps]]
 - [[Spiral]]
+- [[SuperMemo in Action]]
 
 ## Inspiration
 [[Woz]]
@@ -75,6 +76,7 @@ stuff want to write
 [addiction]: addiction "Addiction"
 [contact Raj]: contact-raj "Contact Raj"
 [Thought Maps]: Thought Maps "Thought Maps"
+[SuperMemo in Action]: supermemo-in-action "SuperMemo in Action"
 [Woz]: Woz "Woz"
 [Gautam]: gautam "Gautam"
 [Space]: Space "Space"
