@@ -14,7 +14,9 @@ Video series by [[Space]] outlining some of the simple reasons why schools are h
 
 - Effects of poor sleep
     - depression
-    - 
+    > Studies of adolescents have identified a link between sleep disruption and suicidal thoughts, suicide attempts, and, tragically, suicide completion in the days after
+    > After ten days of just seven hours of sleep, the brain is as dysfunctional as it would be after going without sleep for twenty-four hours.
+    > Specifically, it is estimated that up to 90% of people with depressive disorders experience sleep problems.
 
 
 - If sleep is so important, why is it so normal to wake kids up?
@@ -22,7 +24,14 @@ Video series by [[Space]] outlining some of the simple reasons why schools are h
     - society is only recently learning to appreciate sleep, just like it only recently learned to appreciate mental health
         - Uber and Google both let their people nap
 
+- DSPS in teens
+
 - If you want to help your child thrive, you may have to make large sacrifices in other realms of their life, but the benefit in brain growth will be work it immensley. 
+
+1. sleep is important
+    
+2. sleep is different for teens than adults
+3. to help kids thrive, let kids wake up naturally
 
 **Links**
 - anything on supermmeoguru
@@ -31,6 +40,9 @@ Video series by [[Space]] outlining some of the simple reasons why schools are h
 
 ### Conformity
 
+1. harms Creativity
+2. kids don't understand it fully
+3. creates people who are more likely to disrepect freedoms when they're older
 
 
 **Specificity**
